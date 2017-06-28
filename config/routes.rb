@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'welcome#pets'
+  root 'welcome#home'
 
   get 'welcome/supplies'
 
